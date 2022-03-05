@@ -9,6 +9,7 @@ A project focused on refactoring a webpage with the goal of improving code and a
 
 ## Usage 
 View Deployed GitHub https://github.com/JHam94/code-refactor
+![image](https://user-images.githubusercontent.com/98374207/156899614-e80c05c1-3e87-4d31-bc0c-9a625bd85a68.png)
 
 
 ## Contribution
