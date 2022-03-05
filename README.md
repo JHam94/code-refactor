@@ -7,7 +7,8 @@ A project focused on refactoring a webpage with the goal of improving code and a
 * HTML
 * CSS
 
-
+## Usage 
+View Deployed GitHub https://github.com/JHam94/code-refactor
 
 
 ## Contribution
